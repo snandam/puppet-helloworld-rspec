@@ -1,0 +1,14 @@
+{
+  "name": "snandam-helloworld",
+  "version": "0.1.0",
+  "author": "snandam",
+  "summary": "To demonstrate rpec testing with a simple module",
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
